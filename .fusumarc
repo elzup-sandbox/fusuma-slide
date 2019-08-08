@@ -1,0 +1,20 @@
+meta:
+  title: ACM ICPC 予選突破の心得
+  description: ACM ICPC 予選突破の心得
+slide:
+  loop: true
+  sidebar: true
+  targetBlank: true
+  showIndex: false
+  isVertical: false
+  code:
+    languages:
+      - javascript
+    plugins:
+      - line-numbers
+    theme: default
+  math: false
+  chart: false
+extends:
+  js: index.js
+  css: style.css
